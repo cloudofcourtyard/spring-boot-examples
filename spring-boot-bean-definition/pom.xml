@@ -8,7 +8,7 @@
         <version>2.0.9.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>indi.zhaosheng</groupId>
+    <groupId>indi.tutubrother</groupId>
     <artifactId>spring-boot-bean-definition</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-boot-bean-definition</name>
